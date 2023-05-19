@@ -1,0 +1,13 @@
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.end_text.resources
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\SimpleCarGame.vbproj.GenerateResource.Cache
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+C:\Users\user\OneDrive - IT Enrico Mattei\Desktop\simple_car_game\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
